@@ -3,8 +3,8 @@ import { poppins } from "@/lib/fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ERP Forms",
-  description: "A comprehensive ERP form management system",
+  title: "Sync Forms",
+  description: "A comprehensive form management system for streamlined data collection and administration",
 };
 
 export default function RootLayout({

@@ -13,7 +13,7 @@ export default function LandingPage() {
       {/* NAVBAR */}
       <header className="max-w-7xl mx-auto px-5 sm:px-6 py-4 flex items-center justify-between">
         <div className="text-lg sm:text-xl font-bold text-blue-700">
-          Student ERP
+          Sync Forms
         </div>
 
         {/* Desktop Nav */}
@@ -53,7 +53,7 @@ export default function LandingPage() {
           >
             <div className="flex justify-between items-center mb-8">
               <span className="text-lg font-bold text-blue-700">
-                Student ERP
+                Sync Forms
               </span>
               <button onClick={() => setMenuOpen(false)}>
                 <X size={24} />
@@ -97,8 +97,8 @@ export default function LandingPage() {
             className="text-2xl sm:text-4xl md:text-5xl
                        font-extrabold leading-snug sm:leading-tight"
           >
-            Smart ERP System for <br />
-            <span className="text-blue-600">Modern Education</span>
+            Streamlined Form Management for <br />
+            <span className="text-blue-600">Modern Organizations</span>
           </h1>
 
           <p
@@ -106,9 +106,9 @@ export default function LandingPage() {
                        text-sm sm:text-lg
                        text-gray-600 max-w-lg"
           >
-            A centralized student ERP platform designed to manage academic forms,
-            attendance, results, feedback, and institutional workflows digitally
-            with accuracy and transparency.
+            A comprehensive form management platform designed to streamline data collection,
+            automate workflows, and enhance productivity with secure, real-time synchronization
+            and intuitive administration tools.
           </p>
 
           <div className="mt-8 flex flex-col sm:flex-row gap-4">
