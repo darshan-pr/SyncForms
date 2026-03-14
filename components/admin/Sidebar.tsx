@@ -22,7 +22,7 @@ export default function Sidebar() {
       {/* SAME HEIGHT AS NAVBAR */}
       <div className="h-16 flex items-center px-6 
                       text-xl font-bold border-b border-slate-700">
-        Sahyadri ERP
+        College ERP
       </div>
 
       <nav className="p-4 space-y-1">
